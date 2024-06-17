@@ -1,3 +1,17 @@
 cabecalho{ 
 background-color: rgb(32, 31, 32);
+color: white;
+display: flex;
+justify-content: epase-around;
+align-items: center
+padding: 24px;
 }
+
+.cabecalho-imagem{
+     width: 20; 
+}
+
+.cabecalho_lista_item{
+    display
+}
+
